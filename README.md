@@ -1,9 +1,9 @@
-This is an example of a schematic and PCB design project I did in Eagle software. It is a LED timer circuit. I desiged it following Jeremy Blum's youtube tutorials.
+LED timer circuit following Jeremy Blum's youtube tutorials.
 
-Part 1: https://www.youtube.com/watch?v=1AXwjZoyNno, schematic design.
+Part 1: https://www.youtube.com/watch?v=1AXwjZoyNno
 
-Part 2: https://www.youtube.com/watch?v=CCTs0mNXY24, PCB layout.
+Part 2: https://www.youtube.com/watch?v=CCTs0mNXY24
 
-Part 3: https://www.youtube.com/watch?v=oId-h6AeXXE, CAM files and design for manufacturing
+Part 3: https://www.youtube.com/watch?v=oId-h6AeXXE
 
 The PDF file shows a picture of the schematic capture, the PCB layout, and the layers of the PCB board.
