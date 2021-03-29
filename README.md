@@ -6,4 +6,4 @@ Part 2: https://www.youtube.com/watch?v=CCTs0mNXY24, PCB layout.
 
 Part 3: https://www.youtube.com/watch?v=oId-h6AeXXE, CAM files and design for manufacturing
 
-The PDF file shows the schematic capture, the PCB design, and the layers of the PCB board.
+The PDF file shows a picture of the schematic capture, the PCB layout, and the layers of the PCB board.
